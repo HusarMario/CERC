@@ -1,0 +1,20 @@
+5
+sohel 10 10
+mahmud 20 10
+sanny 5 5
+prince 1 1
+per 120 3
+mf 6 6
+kugel 50 60
+joey 3 24
+limon 6 9
+manzoor 0 0
+1
+derek 0 0
+jimmy 1000 1000
+2
+UVa1 9 4
+Uva2 5 4
+Uva3 385 30
+Uva4 999 3
+0
